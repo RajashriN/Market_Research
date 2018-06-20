@@ -1,0 +1,2 @@
+# Market_Research
+This repository holds primary and secondary research conducted prior to launching a MOOC portal.Primary research focuses on collecting data about the competitors.Secondary research involves visualising data using Tableau and performing statistical data analysis on the data set to gain insights.Feature study of various portals are done to ensure that we have an edge over existing products.
